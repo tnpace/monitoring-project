@@ -1,0 +1,18 @@
+# Grafana
+grafana/data/
+
+# InfluxDB
+influxdb2/
+data/
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite
+
+# Secrets
+.env
+*.pem
+*.key
